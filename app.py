@@ -452,8 +452,7 @@ if model_artifacts:
         st.markdown("""
         <div style='text-align: center; padding: 15px;'>
         <p style='color: #888; font-size: 0.85rem; margin: 0;'>
-        Developed by Pooja Yadav under the mentorship of Gopal Sir<br>
-        For Educational Purposes
+        Developed by Pooja Yadav
         </p>
         </div>
         """, unsafe_allow_html=True)
@@ -744,7 +743,6 @@ st.markdown("""
     <p class='footer-text' style='margin: 10px 0 0 0;'>
          Earthquake Impact Prediction System<br>
          Developed for Disaster Management & Emergency Response<br>
-        <small>Academic Project | For Educational Purposes Only</small>
     </p>
 </div>
 """, unsafe_allow_html=True)
